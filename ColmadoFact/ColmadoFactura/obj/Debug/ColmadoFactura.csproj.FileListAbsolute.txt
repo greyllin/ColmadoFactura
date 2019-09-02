@@ -1,0 +1,15 @@
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.csprojAssemblyReference.cache
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.Properties.Resources.resources
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.csproj.GenerateResource.cache
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.csproj.CoreCompileInputs.cache
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\ColmadoFactura.exe.config
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\ColmadoFactura.exe
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\ColmadoFactura.pdb
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\EntityFramework.dll
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\EntityFramework.xml
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.csproj.CopyComplete
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.exe
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.pdb
+C:\Users\greyl\source\repos\ColmadoFact\ColmadoFactura\obj\Debug\ColmadoFactura.Mantenimiento.Categorias_Productos.resources
